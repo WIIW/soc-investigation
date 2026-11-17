@@ -1,0 +1,74 @@
+[
+  {
+    "name": "historia-projektu.md",
+    "bytes": 11687,
+    "sha256": "4c0cf24439b2709705a95436d2e7fc68ad69931cfad518a0d9c721b9fbf605bf",
+    "path": "historia-projektu.md"
+  },
+  {
+    "name": "SOC-L1.md",
+    "bytes": 8750,
+    "sha256": "fa34f48e1a0abc07f980de2dabb5cd59da486a1d5fac0b8d2c617119ab6f8051",
+    "path": "raporty/SOC-L1.md"
+  },
+  {
+    "name": "SOC-L2.md",
+    "bytes": 18165,
+    "sha256": "9b626a91d31f9916d70ad45fb2b2323d1e5c2f5145b9d278b156cbe76db25ac7",
+    "path": "raporty/SOC-L2.md"
+  },
+  {
+    "name": "DFIR.md",
+    "bytes": 25361,
+    "sha256": "fd804b80869d953a07ac5da0bbfbf249ba842b89278750c364371ccde276e5c8",
+    "path": "raporty/DFIR.md"
+  },
+  {
+    "name": "soc-l1-spl.md",
+    "bytes": 7849,
+    "sha256": "56debdb38df9d7147577740e6f720a2cbc28c420fe26395b3011a7eded95a230",
+    "path": "technical/soc-l1-spl.md"
+  },
+  {
+    "name": "README.md",
+    "bytes": 4104,
+    "sha256": "a06f8f02f5f62e87ad208e68385243c58f6203a1b5bbd9fc307cdc8620059cc0",
+    "path": "README.md"
+  },
+  {
+    "name": "timeline.md",
+    "bytes": 1291,
+    "sha256": "67658c3df80b062f8ba87cc964ae5e49cb383726221061e1cf27bf8068505908",
+    "path": "technical/timeline.md"
+  },
+  {
+    "name": "ioc.md",
+    "bytes": 981,
+    "sha256": "455c4a63e7ba478a169da0051861b456b2b73e1158e8f0c556e88dafe347a56c",
+    "path": "technical/ioc.md"
+  },
+  {
+    "name": "mitre-attack.md",
+    "bytes": 1641,
+    "sha256": "9c2b3ffbae0de1b35e4146dcbabc69855225d9c90a0f859c85edc8b3e806a5e9",
+    "path": "technical/mitre-attack.md"
+  },
+  {
+    "name": "evidence-matrix.md",
+    "bytes": 1820,
+    "sha256": "87982ddfe41aa20677e7de77bd1491a86ecc5e5c3062aee33b69d375be87acbc",
+    "path": "evidence/evidence-matrix.md"
+  },
+  {
+    "name": "methodology.md",
+    "bytes": 2186,
+    "sha256": "aba95123d2d07a8c8230fb18b25367cf5a6e11ddc3c74276279129b5a96aeb68",
+    "path": "methodology.md"
+  },
+  {
+    "name": "screenshots-README.md",
+    "bytes": 931,
+    "sha256": "a44b515adfe862133f1c65f8ef6aec5145cd9622051b301c42932497fd986051",
+    "path": "evidence/screenshots/README.md"
+  }
+]

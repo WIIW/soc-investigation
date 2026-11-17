@@ -1,0 +1,9 @@
+original,path,bytes,sha256
+SOC_L1-1.svg,evidence/screenshots/e14-invoice-email.svg,3876,6d338a7e956dde87dfaf1fa53c3aa249839f44b5d398af6a41e3768f6a43006e
+SOC_L2-1.png,evidence/screenshots/e20a-olevba-macros.png,102399,afbc55932276f627b1addb0ec32ef1ffccd2eea152707e72113f6d2b83470cd7
+SOC_L2-2.png,evidence/screenshots/e23f-wmi-powershell.png,128289,cd6748308f699a0574d79c090ca70213ea4108f7603d5f3ab78384100b91c60a
+SOC_L2-3.png,evidence/screenshots/e24i-updater-taskcache.png,180728,d7e8b6c0012fd305c024fea8750be8cf7a66272163d95f1274edd6cb93b2bab3
+SOC_L2-4.png,evidence/screenshots/e25bf-dns-424-fqdn.png,83903,08de0feb38066540808dff549f9ea718f9767effdde0ad866ab2fdf980316176
+DFIR-3.png,evidence/screenshots/e24a-powershell-network.png,80793,a7176d4f865958b9d00d9a05929eeeb42671a20d68e2375839c1a5e240652134
+DFIR-5.png,evidence/screenshots/e25as-ftp-retr.png,120287,c7e43f8398188604f6fcdcf1a7749714de40297adf0185f851ff113f97d0400e
+DFIR-6.png,evidence/screenshots/e25at-ftp-stor-kdbx.png,143590,23ea9c088541017b59bfe96b4d92b36ad1e7dd11d7ec9c1154f1686fcaed5023

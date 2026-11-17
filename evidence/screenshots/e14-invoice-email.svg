@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1536" height="1024" viewBox="0 0 1536 1024">
+<defs><linearGradient id="top" x1="0" x2="1"><stop stop-color="#005aab"/><stop offset="1" stop-color="#137ed0"/></linearGradient>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#1d1d1d}.small{font-size:23px}.body{font-size:25px}.muted{fill:#555}.link{fill:#0067c8;text-decoration:underline}</style></defs>
+<rect width="1536" height="1024" rx="10" fill="#fff" stroke="#c6cbd0" stroke-width="2"/>
+<path d="M10,0 H1526 Q1536,0 1536,10 V58 H0 V10 Q0,0 10,0Z" fill="url(#top)"/>
+<rect x="36" y="19" width="27" height="26" fill="#fff" rx="3"/><text x="43" y="39" font-size="18" fill="#005fa8">O</text>
+<text x="91" y="37" fill="white" font-size="25">Invoice - Wiadomość (HTML)</text>
+<text x="1390" y="37" fill="white" font-size="22">−    □    ×</text>
+<rect y="58" width="1536" height="51" fill="#fcfcfd"/>
+<text x="35" y="90" class="small">Plik</text><text x="124" y="90" class="small" font-weight="bold">Wiadomość</text><text x="295" y="90" class="small">Pomoc</text>
+<rect x="120" y="104" width="130" height="4" fill="#0078d4"/>
+<rect x="19" y="110" width="1496" height="61" rx="8" fill="#fbfbfb" stroke="#ededed"/>
+<text x="62" y="148" font-size="24">↶ Odpowiedz</text><text x="312" y="148" font-size="24">↶ Odpowiedz wszystkim</text><text x="627" y="148" font-size="24">➜ Prześlij dalej</text><text x="922" y="148" font-size="24">Usuń</text><text x="1086" y="148" font-size="24">Archiwizuj</text><text x="1276" y="148" font-size="24">Oznacz</text>
+<text x="48" y="230" font-size="37" font-weight="bold">Invoice</text>
+<circle cx="85" cy="297" r="38" fill="#7d929e"/><text x="66" y="309" font-size="27" fill="white">JS</text>
+<text x="146" y="287" font-size="24" font-weight="bold">jsmith@urinalysis.com</text>
+<text x="146" y="327" font-size="22">Do: abungstein@froth.ly</text>
+<text x="1178" y="287" font-size="21" fill="#555">24.08.2017, 03:27:14 UTC</text>
+<line x1="49" x2="1491" y1="357" y2="357" stroke="#e4e6ea" stroke-width="2"/>
+<text x="73" y="404" class="body">As we have not received a service cessation letter, I am assuming that you might have</text>
+<text x="73" y="441" class="body">accidentally overlooked this invoice ‘02/160000506500 (Unpaid)’ for 10,000 GBP.</text>
+<text x="73" y="478" class="body">Should you wish to bring an end to the agreement please let us know.</text>
+<text x="73" y="515" class="body">Otherwise early withdrawal penalties will apply next month.</text>
+<text x="73" y="571" class="body">Pleaser refer to the attached document for payment details. Due to the personal nature</text>
+<text x="73" y="608" class="body">of the account we have added a password to the document.</text>
+<text x="73" y="645" class="body">Please enter the password (912345678).</text>
+<text x="73" y="711" class="small link">Unsubscribe / Change Profile</text>
+<text x="73" y="746" class="small link">Powered by YMLP</text>
+<line x1="54" x2="1481" y1="772" y2="772" stroke="#e5e9ed" stroke-width="2"/>
+<rect x="55" y="792" width="532" height="90" rx="8" stroke="#babfc4" fill="#fafafa" stroke-width="2"/>
+<rect x="82" y="815" width="54" height="49" rx="7" fill="#f5c951"/><path d="M110,816 V863" stroke="#8a8a8a" stroke-width="8" stroke-dasharray="4 4"/>
+<text x="160" y="828" font-size="26" font-weight="bold">invoice.zip</text>
+<text x="160" y="857" font-size="23" fill="#555">16 495 B (16,1 KiB)</text>
+<text x="539" y="843" font-size="30">⌄</text>
+<rect x="21" y="919" width="1493" height="70" rx="9" fill="#eef2f6"/>
+<circle cx="62" cy="954" r="15" fill="none" stroke="#0067c8" stroke-width="2"/>
+<text x="57" y="961" font-size="21" fill="#0067c8" font-weight="bold">i</text>
+<text x="91" y="960" font-size="22">Rekonstrukcja na podstawie logów SMTP (Evidence 14, BOTSv2). Nie jest to oryginalny zrzut ze skrzynki.</text>
+</svg>

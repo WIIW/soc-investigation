@@ -1,0 +1,355 @@
+{
+  "relative_links": [
+    {
+      "file": "historia-projektu.md",
+      "target": "evidence/screenshots/e14-invoice-email.svg",
+      "exists": true
+    },
+    {
+      "file": "PUBLICATION-QA.md",
+      "target": "evidence/source-integrity.json",
+      "exists": true
+    },
+    {
+      "file": "PUBLICATION-QA.md",
+      "target": "evidence/SOC_screenshots_manifest.csv",
+      "exists": true
+    },
+    {
+      "file": "PUBLICATION-QA.md",
+      "target": "README.md#wstęp",
+      "exists": true
+    },
+    {
+      "file": "PUBLISHING-CHECKLIST.md",
+      "target": "PUBLICATION-QA.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "historia-projektu.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "historia-projektu.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "raporty/SOC-L1.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "raporty/SOC-L2.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "raporty/DFIR.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "technical/soc-l1-spl.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "evidence/evidence-matrix.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "technical/timeline.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "technical/ioc.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "technical/mitre-attack.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "methodology.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "raporty/SOC-L1.pdf",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "raporty/SOC-L2.pdf",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "raporty/DFIR.pdf",
+      "exists": true
+    },
+    {
+      "file": "raporty/DFIR.md",
+      "target": "../evidence/screenshots/e20a-olevba-macros.png",
+      "exists": true
+    },
+    {
+      "file": "raporty/DFIR.md",
+      "target": "../evidence/screenshots/e23f-wmi-powershell.png",
+      "exists": true
+    },
+    {
+      "file": "raporty/DFIR.md",
+      "target": "../evidence/screenshots/e24a-powershell-network.png",
+      "exists": true
+    },
+    {
+      "file": "raporty/DFIR.md",
+      "target": "../evidence/screenshots/e24i-updater-taskcache.png",
+      "exists": true
+    },
+    {
+      "file": "raporty/DFIR.md",
+      "target": "../evidence/screenshots/e25as-ftp-retr.png",
+      "exists": true
+    },
+    {
+      "file": "raporty/DFIR.md",
+      "target": "../evidence/screenshots/e25at-ftp-stor-kdbx.png",
+      "exists": true
+    },
+    {
+      "file": "raporty/DFIR.md",
+      "target": "../evidence/screenshots/e25bf-dns-424-fqdn.png",
+      "exists": true
+    },
+    {
+      "file": "raporty/DFIR.md",
+      "target": "../historia-projektu.md",
+      "exists": true
+    },
+    {
+      "file": "raporty/DFIR.md",
+      "target": "../raporty/SOC-L1.md",
+      "exists": true
+    },
+    {
+      "file": "raporty/DFIR.md",
+      "target": "../raporty/SOC-L2.md",
+      "exists": true
+    },
+    {
+      "file": "raporty/DFIR.md",
+      "target": "../evidence/evidence-matrix.md",
+      "exists": true
+    },
+    {
+      "file": "raporty/SOC-L1.md",
+      "target": "../evidence/screenshots/e14-invoice-email.svg",
+      "exists": true
+    },
+    {
+      "file": "raporty/SOC-L1.md",
+      "target": "../technical/soc-l1-spl.md",
+      "exists": true
+    },
+    {
+      "file": "raporty/SOC-L2.md",
+      "target": "../evidence/screenshots/e20a-olevba-macros.png",
+      "exists": true
+    },
+    {
+      "file": "raporty/SOC-L2.md",
+      "target": "../evidence/screenshots/e23f-wmi-powershell.png",
+      "exists": true
+    },
+    {
+      "file": "raporty/SOC-L2.md",
+      "target": "../evidence/screenshots/e24i-updater-taskcache.png",
+      "exists": true
+    },
+    {
+      "file": "raporty/SOC-L2.md",
+      "target": "../evidence/screenshots/e25bf-dns-424-fqdn.png",
+      "exists": true
+    },
+    {
+      "file": "raporty/SOC-L2.md",
+      "target": "../evidence/evidence-matrix.md",
+      "exists": true
+    },
+    {
+      "file": "technical/soc-l1-spl.md",
+      "target": "../evidence/evidence-matrix.md",
+      "exists": true
+    },
+    {
+      "file": "evidence/screenshots/README.md",
+      "target": "../SOC_screenshots_manifest.csv",
+      "exists": true
+    },
+    {
+      "file": "evidence/screenshots/README.md",
+      "target": "../../PUBLICATION-QA.md",
+      "exists": true
+    }
+  ],
+  "external_links": [
+    "http://ANY.RUN",
+    "http://szkolasecurity.pl",
+    "https://any.run/",
+    "https://attack.mitre.org/",
+    "https://csrc.nist.gov/pubs/sp/800/61/r3/final",
+    "https://csrc.nist.gov/pubs/sp/800/86/final",
+    "https://doi.org/10.6028/NIST.CSWP.29",
+    "https://github.com/splunk/botsv2",
+    "https://github.com/splunk/botsv2#download",
+    "https://github.com/splunk/botsv2/blob/master/LICENSE",
+    "https://tria.ge/"
+  ],
+  "privacy_findings": [],
+  "pdf": [
+    {
+      "file": "DFIR.pdf",
+      "pages": 18,
+      "a4": true,
+      "text_outside_margins": [],
+      "outline_entries": 12,
+      "annotations": 34,
+      "text_chars": 26684
+    },
+    {
+      "file": "SOC-L1.pdf",
+      "pages": 5,
+      "a4": true,
+      "text_outside_margins": [],
+      "outline_entries": 7,
+      "annotations": 1,
+      "text_chars": 8436
+    },
+    {
+      "file": "SOC-L2.pdf",
+      "pages": 14,
+      "a4": true,
+      "text_outside_margins": [],
+      "outline_entries": 10,
+      "annotations": 21,
+      "text_chars": 18920
+    }
+  ],
+  "images": [
+    {
+      "file": "evidence/screenshots/e14-invoice-email.svg",
+      "sha256_matches": true
+    },
+    {
+      "file": "evidence/screenshots/e20a-olevba-macros.png",
+      "sha256_matches": true
+    },
+    {
+      "file": "evidence/screenshots/e23f-wmi-powershell.png",
+      "sha256_matches": true
+    },
+    {
+      "file": "evidence/screenshots/e24i-updater-taskcache.png",
+      "sha256_matches": true
+    },
+    {
+      "file": "evidence/screenshots/e25bf-dns-424-fqdn.png",
+      "sha256_matches": true
+    },
+    {
+      "file": "evidence/screenshots/e24a-powershell-network.png",
+      "sha256_matches": true
+    },
+    {
+      "file": "evidence/screenshots/e25as-ftp-retr.png",
+      "sha256_matches": true
+    },
+    {
+      "file": "evidence/screenshots/e25at-ftp-stor-kdbx.png",
+      "sha256_matches": true
+    }
+  ],
+  "source_changes": [
+    {
+      "file": "historia-projektu.md",
+      "original_sha256": "4c0cf24439b2709705a95436d2e7fc68ad69931cfad518a0d9c721b9fbf605bf",
+      "current_sha256": "03b493f24667becad855ef7fd7cd1e767829e6a052255e46119c533815bd5214",
+      "changed": true
+    },
+    {
+      "file": "raporty/SOC-L1.md",
+      "original_sha256": "fa34f48e1a0abc07f980de2dabb5cd59da486a1d5fac0b8d2c617119ab6f8051",
+      "current_sha256": "19d22cd59e076dddce01b8682dda2dc61ef4cbbcae4313a2fcfa47a48d489a59",
+      "changed": true
+    },
+    {
+      "file": "raporty/SOC-L2.md",
+      "original_sha256": "9b626a91d31f9916d70ad45fb2b2323d1e5c2f5145b9d278b156cbe76db25ac7",
+      "current_sha256": "ba69d078f2ec3a54cceb2dc7ecb35cf219e073e3582212283cf984c5dad5e7ae",
+      "changed": true
+    },
+    {
+      "file": "raporty/DFIR.md",
+      "original_sha256": "fd804b80869d953a07ac5da0bbfbf249ba842b89278750c364371ccde276e5c8",
+      "current_sha256": "2d57911b2a4346662fef70bd9adf177677ac731c32df04d0b52013f0d520d263",
+      "changed": true
+    },
+    {
+      "file": "technical/soc-l1-spl.md",
+      "original_sha256": "56debdb38df9d7147577740e6f720a2cbc28c420fe26395b3011a7eded95a230",
+      "current_sha256": "077b990b948dd6df4f4b2ce119df54645d06d94a42f0a2de7750c4649aa52945",
+      "changed": true
+    },
+    {
+      "file": "README.md",
+      "original_sha256": "a06f8f02f5f62e87ad208e68385243c58f6203a1b5bbd9fc307cdc8620059cc0",
+      "current_sha256": "7dcd0dcb014d11d97a87c30f9999a32f654012fa708e9d5b3b657ce2b165a716",
+      "changed": true
+    },
+    {
+      "file": "technical/timeline.md",
+      "original_sha256": "67658c3df80b062f8ba87cc964ae5e49cb383726221061e1cf27bf8068505908",
+      "current_sha256": "67658c3df80b062f8ba87cc964ae5e49cb383726221061e1cf27bf8068505908",
+      "changed": false
+    },
+    {
+      "file": "technical/ioc.md",
+      "original_sha256": "455c4a63e7ba478a169da0051861b456b2b73e1158e8f0c556e88dafe347a56c",
+      "current_sha256": "455c4a63e7ba478a169da0051861b456b2b73e1158e8f0c556e88dafe347a56c",
+      "changed": false
+    },
+    {
+      "file": "technical/mitre-attack.md",
+      "original_sha256": "9c2b3ffbae0de1b35e4146dcbabc69855225d9c90a0f859c85edc8b3e806a5e9",
+      "current_sha256": "9c2b3ffbae0de1b35e4146dcbabc69855225d9c90a0f859c85edc8b3e806a5e9",
+      "changed": false
+    },
+    {
+      "file": "evidence/evidence-matrix.md",
+      "original_sha256": "87982ddfe41aa20677e7de77bd1491a86ecc5e5c3062aee33b69d375be87acbc",
+      "current_sha256": "87982ddfe41aa20677e7de77bd1491a86ecc5e5c3062aee33b69d375be87acbc",
+      "changed": false
+    },
+    {
+      "file": "methodology.md",
+      "original_sha256": "aba95123d2d07a8c8230fb18b25367cf5a6e11ddc3c74276279129b5a96aeb68",
+      "current_sha256": "43cdc3ad1204390ee4277fd5e1df85acb210eccc8d22f2b538d853bb4ba79c26",
+      "changed": true
+    },
+    {
+      "file": "evidence/screenshots/README.md",
+      "original_sha256": "a44b515adfe862133f1c65f8ef6aec5145cd9622051b301c42932497fd986051",
+      "current_sha256": "b4932037f36ee2bd34ce5bf7282fd0dc953adaa4d59667a360cb5f620bc89fa4",
+      "changed": true
+    }
+  ]
+}
