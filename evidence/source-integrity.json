@@ -3,25 +3,25 @@
     "name": "historia-projektu.md",
     "bytes": 11687,
     "sha256": "4c0cf24439b2709705a95436d2e7fc68ad69931cfad518a0d9c721b9fbf605bf",
-    "path": "historia-projektu.md"
+    "path": "project-story.md"
   },
   {
     "name": "SOC-L1.md",
     "bytes": 8750,
     "sha256": "fa34f48e1a0abc07f980de2dabb5cd59da486a1d5fac0b8d2c617119ab6f8051",
-    "path": "raporty/SOC-L1.md"
+    "path": "reports/SOC-L1.md"
   },
   {
     "name": "SOC-L2.md",
     "bytes": 18165,
     "sha256": "9b626a91d31f9916d70ad45fb2b2323d1e5c2f5145b9d278b156cbe76db25ac7",
-    "path": "raporty/SOC-L2.md"
+    "path": "reports/SOC-L2.md"
   },
   {
     "name": "DFIR.md",
     "bytes": 25361,
     "sha256": "fd804b80869d953a07ac5da0bbfbf249ba842b89278750c364371ccde276e5c8",
-    "path": "raporty/DFIR.md"
+    "path": "reports/DFIR.md"
   },
   {
     "name": "soc-l1-spl.md",

@@ -1,7 +1,17 @@
 {
   "relative_links": [
     {
-      "file": "historia-projektu.md",
+      "file": "evidence/screenshots/README.md",
+      "target": "../SOC_screenshots_manifest.csv",
+      "exists": true
+    },
+    {
+      "file": "evidence/screenshots/README.md",
+      "target": "../../PUBLICATION-QA.md",
+      "exists": true
+    },
+    {
+      "file": "project-story.md",
       "target": "evidence/screenshots/e14-invoice-email.svg",
       "exists": true
     },
@@ -27,27 +37,27 @@
     },
     {
       "file": "README.md",
-      "target": "historia-projektu.md",
+      "target": "project-story.md",
       "exists": true
     },
     {
       "file": "README.md",
-      "target": "historia-projektu.md",
+      "target": "project-story.md",
       "exists": true
     },
     {
       "file": "README.md",
-      "target": "raporty/SOC-L1.md",
+      "target": "reports/SOC-L1.md",
       "exists": true
     },
     {
       "file": "README.md",
-      "target": "raporty/SOC-L2.md",
+      "target": "reports/SOC-L2.md",
       "exists": true
     },
     {
       "file": "README.md",
-      "target": "raporty/DFIR.md",
+      "target": "reports/DFIR.md",
       "exists": true
     },
     {
@@ -82,122 +92,112 @@
     },
     {
       "file": "README.md",
-      "target": "raporty/SOC-L1.pdf",
+      "target": "reports/SOC-L1.pdf",
       "exists": true
     },
     {
       "file": "README.md",
-      "target": "raporty/SOC-L2.pdf",
+      "target": "reports/SOC-L2.pdf",
       "exists": true
     },
     {
       "file": "README.md",
-      "target": "raporty/DFIR.pdf",
+      "target": "reports/DFIR.pdf",
       "exists": true
     },
     {
-      "file": "raporty/DFIR.md",
+      "file": "reports/DFIR.md",
       "target": "../evidence/screenshots/e20a-olevba-macros.png",
       "exists": true
     },
     {
-      "file": "raporty/DFIR.md",
+      "file": "reports/DFIR.md",
       "target": "../evidence/screenshots/e23f-wmi-powershell.png",
       "exists": true
     },
     {
-      "file": "raporty/DFIR.md",
+      "file": "reports/DFIR.md",
       "target": "../evidence/screenshots/e24a-powershell-network.png",
       "exists": true
     },
     {
-      "file": "raporty/DFIR.md",
+      "file": "reports/DFIR.md",
       "target": "../evidence/screenshots/e24i-updater-taskcache.png",
       "exists": true
     },
     {
-      "file": "raporty/DFIR.md",
+      "file": "reports/DFIR.md",
       "target": "../evidence/screenshots/e25as-ftp-retr.png",
       "exists": true
     },
     {
-      "file": "raporty/DFIR.md",
+      "file": "reports/DFIR.md",
       "target": "../evidence/screenshots/e25at-ftp-stor-kdbx.png",
       "exists": true
     },
     {
-      "file": "raporty/DFIR.md",
+      "file": "reports/DFIR.md",
       "target": "../evidence/screenshots/e25bf-dns-424-fqdn.png",
       "exists": true
     },
     {
-      "file": "raporty/DFIR.md",
-      "target": "../historia-projektu.md",
+      "file": "reports/DFIR.md",
+      "target": "../project-story.md",
       "exists": true
     },
     {
-      "file": "raporty/DFIR.md",
-      "target": "../raporty/SOC-L1.md",
+      "file": "reports/DFIR.md",
+      "target": "../reports/SOC-L1.md",
       "exists": true
     },
     {
-      "file": "raporty/DFIR.md",
-      "target": "../raporty/SOC-L2.md",
+      "file": "reports/DFIR.md",
+      "target": "../reports/SOC-L2.md",
       "exists": true
     },
     {
-      "file": "raporty/DFIR.md",
+      "file": "reports/DFIR.md",
       "target": "../evidence/evidence-matrix.md",
       "exists": true
     },
     {
-      "file": "raporty/SOC-L1.md",
+      "file": "reports/SOC-L1.md",
       "target": "../evidence/screenshots/e14-invoice-email.svg",
       "exists": true
     },
     {
-      "file": "raporty/SOC-L1.md",
+      "file": "reports/SOC-L1.md",
       "target": "../technical/soc-l1-spl.md",
       "exists": true
     },
     {
-      "file": "raporty/SOC-L2.md",
+      "file": "reports/SOC-L2.md",
       "target": "../evidence/screenshots/e20a-olevba-macros.png",
       "exists": true
     },
     {
-      "file": "raporty/SOC-L2.md",
+      "file": "reports/SOC-L2.md",
       "target": "../evidence/screenshots/e23f-wmi-powershell.png",
       "exists": true
     },
     {
-      "file": "raporty/SOC-L2.md",
+      "file": "reports/SOC-L2.md",
       "target": "../evidence/screenshots/e24i-updater-taskcache.png",
       "exists": true
     },
     {
-      "file": "raporty/SOC-L2.md",
+      "file": "reports/SOC-L2.md",
       "target": "../evidence/screenshots/e25bf-dns-424-fqdn.png",
       "exists": true
     },
     {
-      "file": "raporty/SOC-L2.md",
+      "file": "reports/SOC-L2.md",
       "target": "../evidence/evidence-matrix.md",
       "exists": true
     },
     {
       "file": "technical/soc-l1-spl.md",
       "target": "../evidence/evidence-matrix.md",
-      "exists": true
-    },
-    {
-      "file": "evidence/screenshots/README.md",
-      "target": "../SOC_screenshots_manifest.csv",
-      "exists": true
-    },
-    {
-      "file": "evidence/screenshots/README.md",
-      "target": "../../PUBLICATION-QA.md",
       "exists": true
     }
   ],
@@ -280,27 +280,27 @@
   ],
   "source_changes": [
     {
-      "file": "historia-projektu.md",
+      "file": "project-story.md",
       "original_sha256": "4c0cf24439b2709705a95436d2e7fc68ad69931cfad518a0d9c721b9fbf605bf",
       "current_sha256": "03b493f24667becad855ef7fd7cd1e767829e6a052255e46119c533815bd5214",
       "changed": true
     },
     {
-      "file": "raporty/SOC-L1.md",
+      "file": "reports/SOC-L1.md",
       "original_sha256": "fa34f48e1a0abc07f980de2dabb5cd59da486a1d5fac0b8d2c617119ab6f8051",
       "current_sha256": "19d22cd59e076dddce01b8682dda2dc61ef4cbbcae4313a2fcfa47a48d489a59",
       "changed": true
     },
     {
-      "file": "raporty/SOC-L2.md",
+      "file": "reports/SOC-L2.md",
       "original_sha256": "9b626a91d31f9916d70ad45fb2b2323d1e5c2f5145b9d278b156cbe76db25ac7",
       "current_sha256": "ba69d078f2ec3a54cceb2dc7ecb35cf219e073e3582212283cf984c5dad5e7ae",
       "changed": true
     },
     {
-      "file": "raporty/DFIR.md",
+      "file": "reports/DFIR.md",
       "original_sha256": "fd804b80869d953a07ac5da0bbfbf249ba842b89278750c364371ccde276e5c8",
-      "current_sha256": "2d57911b2a4346662fef70bd9adf177677ac731c32df04d0b52013f0d520d263",
+      "current_sha256": "e8ef667989a4ad22eb53267c72c4709cb2a255ccd3d66d29cdef698fff488803",
       "changed": true
     },
     {
@@ -312,7 +312,7 @@
     {
       "file": "README.md",
       "original_sha256": "a06f8f02f5f62e87ad208e68385243c58f6203a1b5bbd9fc307cdc8620059cc0",
-      "current_sha256": "7dcd0dcb014d11d97a87c30f9999a32f654012fa708e9d5b3b657ce2b165a716",
+      "current_sha256": "a1b527a498337d0ab8a96a1523b754aede53429ee6e37430103cc3b66b71eae1",
       "changed": true
     },
     {
@@ -351,5 +351,61 @@
       "current_sha256": "b4932037f36ee2bd34ce5bf7282fd0dc953adaa4d59667a360cb5f620bc89fa4",
       "changed": true
     }
-  ]
+  ],
+  "pdf_uri_links": [
+    {
+      "file": "reports/DFIR.pdf",
+      "url": "https://any.run/"
+    },
+    {
+      "file": "reports/DFIR.pdf",
+      "url": "https://tria.ge/"
+    },
+    {
+      "file": "reports/DFIR.pdf",
+      "url": "https://csrc.nist.gov/pubs/sp/800/61/r3/final"
+    },
+    {
+      "file": "reports/DFIR.pdf",
+      "url": "https://doi.org/10.6028/NIST.CSWP.29"
+    },
+    {
+      "file": "reports/DFIR.pdf",
+      "url": "https://csrc.nist.gov/pubs/sp/800/86/final"
+    },
+    {
+      "file": "reports/DFIR.pdf",
+      "url": "https://github.com/WIIW/soc-investigation/blob/main/project-story.md"
+    },
+    {
+      "file": "reports/DFIR.pdf",
+      "url": "https://github.com/WIIW/soc-investigation/blob/main/reports/SOC-L1.md"
+    },
+    {
+      "file": "reports/DFIR.pdf",
+      "url": "https://github.com/WIIW/soc-investigation/blob/main/reports/SOC-L1.md"
+    },
+    {
+      "file": "reports/DFIR.pdf",
+      "url": "https://github.com/WIIW/soc-investigation/blob/main/reports/SOC-L2.md"
+    },
+    {
+      "file": "reports/DFIR.pdf",
+      "url": "https://github.com/WIIW/soc-investigation/blob/main/evidence/evidence-matrix.md"
+    },
+    {
+      "file": "reports/SOC-L1.pdf",
+      "url": "https://github.com/WIIW/soc-investigation/blob/main/technical/soc-l1-spl.md"
+    },
+    {
+      "file": "reports/SOC-L2.pdf",
+      "url": "https://github.com/WIIW/soc-investigation/blob/main/evidence/evidence-matrix.md"
+    }
+  ],
+  "public_path_migration": {
+    "repository": "WIIW/soc-investigation",
+    "updated_pdf_links": 7,
+    "pdf_content_streams_unchanged": true,
+    "pdf_extracted_text_unchanged": true
+  }
 }

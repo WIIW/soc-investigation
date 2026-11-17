@@ -1,6 +1,6 @@
 # Kontrola pakietu SOC BOTSv2
 
-Stan: 17.11.2026. Pakiet do prywatnego repozytorium `WIIW/SOC_project1_priv`, gałąź `main`.
+Stan: 17.11.2026. Publiczne repozytorium `WIIW/soc-investigation`, gałąź `main`.
 
 ## Integralność i redakcja
 
@@ -14,6 +14,7 @@ Zmiany ograniczono do wersji repozytoryjnych:
 - Podpisy DFIR 5 i 6 rozróżniają żądania od sukcesów RETR oraz 714 zdarzeń wyszukiwania od 711 operacji STOR.
 - Ujednolicono pauzy w tekście do łącznika. Uaktualniono inwentarz screenshotów.
 - Nie zmieniano zatwierdzonych raportów ani załączników w Notion. Cztery pliki pozostały identyczne bajtowo: timeline, IOC, MITRE i evidence matrix. W pliku SPL usunięto jedną zbędną spację na końcu akapitu.
+- W publicznej kopii ujednolicono nazwy: `reports/` i `project-story.md`. Zaktualizowano odsyłacze w Markdown oraz siedem linków w trzech PDF, aby prowadziły do publicznego repozytorium. Treść i układ stron PDF zachowano.
 
 ## Wyniki kontroli
 
@@ -37,6 +38,6 @@ Skan wzorców nie gwarantuje wykrycia każdego sekretu. Hasło do ćwiczeniowego
 
 - Sprawdzić ilustracje i szerokie tabele w widoku GitHuba. Poprawny wygląd diagramu i czytelność PDF na telefonie zostały już potwierdzone przez autora.
 - Przeprowadzić test 10 sekund / 2 minuty / 10 minut z niezależnym czytelnikiem. Sprawdzono obecność wyników i nawigacji, scope/IOC oraz granic dowodowych; nie zastępuje to opinii rekrutera lub SOC Lead.
-- Publiczne udostępnienie pozostaje osobną decyzją autora. Repozytorium pozostaje prywatne.
+- Autor utworzył publiczną kopię repozytorium. Prywatny oryginał pozostaje oddzielnie.
 
 Screenshot portfolio można zrobić po otwarciu końcowego README na zalogowanym GitHubie, gdy widoczne są wyniki i w pełni wyrenderowany diagram. Nowe screenshoty dowodowe z laboratorium nie są potrzebne.

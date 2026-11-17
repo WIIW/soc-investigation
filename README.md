@@ -6,7 +6,7 @@
 
 Projekt powstał, żeby przećwiczyć pracę analityka SOC: od wykrycia podejrzanej wiadomości, przez triage i eskalację, po analizę skutków incydentu. Zacząłem od prostego pytania: czy na podstawie logów uda mi się wykryć kampanię phishingową i ustalić, co wydarzyło się później na komputerach odbiorców?
 
-> **Zacznij od [Historii projektu](historia-projektu.md).** Opisuję tam swoją drogę od pierwszego alertu do analizy DFIR, współpracę z AI, ślepe uliczki i wnioski z całej pracy.
+> **Zacznij od [Historii projektu](project-story.md).** Opisuję tam swoją drogę od pierwszego alertu do analizy DFIR, współpracę z AI, ślepe uliczki i wnioski z całej pracy.
 
 Do analizy wykorzystałem [Boss of the SOC v2 (BOTSv2)](https://github.com/splunk/botsv2), udostępniony przez Splunk zbiór danych do ćwiczeń z cyberbezpieczeństwa. Zawiera on logi ze środowiska fikcyjnej firmy Frothly, pozwalające badać aktywność użytkowników, systemów i sieci. Dane źródłowe są dostępne na [licencji CC0 1.0 Universal](https://github.com/splunk/botsv2/blob/master/LICENSE).
 
@@ -45,16 +45,16 @@ flowchart LR
 
 | Materiał | Co pokazuje |
 | --- | --- |
-| [Historia projektu](historia-projektu.md) | Jak prowadziłem dochodzenie, czego się nauczyłem i gdzie musiałem korygować hipotezy |
-| [SOC L1](raporty/SOC-L1.md) | Triage, IOC dostępne na etapie alertu i decyzja o eskalacji |
-| [SOC L2](raporty/SOC-L2.md) | Korelacja hostów i sieci, ocena zagrożenia i rekomendacje IR |
-| [DFIR](raporty/DFIR.md) | Rekonstrukcja incydentu, ocena skutków, granice dowodowe i wnioski |
+| [Historia projektu](project-story.md) | Jak prowadziłem dochodzenie, czego się nauczyłem i gdzie musiałem korygować hipotezy |
+| [SOC L1](reports/SOC-L1.md) | Triage, IOC dostępne na etapie alertu i decyzja o eskalacji |
+| [SOC L2](reports/SOC-L2.md) | Korelacja hostów i sieci, ocena zagrożenia i rekomendacje IR |
+| [DFIR](reports/DFIR.md) | Rekonstrukcja incydentu, ocena skutków, granice dowodowe i wnioski |
 | [SPL: prototyp detekcji](technical/soc-l1-spl.md) | Logika reguły `SOC-DET-001`, historyczne zapytania i ograniczenia |
 | [Evidence Matrix](evidence/evidence-matrix.md) | Najważniejsze twierdzenia i źródła, które je wspierają |
 
 Dodatkowe zestawienia: [oś czasu](technical/timeline.md), [IOC](technical/ioc.md), [MITRE ATT&CK](technical/mitre-attack.md) i [metodyka](methodology.md).
 
-Wersje A4 do pobrania: [SOC L1 (PDF)](raporty/SOC-L1.pdf), [SOC L2 (PDF)](raporty/SOC-L2.pdf), [DFIR (PDF)](raporty/DFIR.pdf).
+Wersje A4 do pobrania: [SOC L1 (PDF)](reports/SOC-L1.pdf), [SOC L2 (PDF)](reports/SOC-L2.pdf), [DFIR (PDF)](reports/DFIR.pdf).
 
 ## Narzędzia i źródła
 

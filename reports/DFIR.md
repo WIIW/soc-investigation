@@ -251,4 +251,4 @@ Raport uwzględnia [NIST SP 800-61 Rev. 3](https://csrc.nist.gov/pubs/sp/800/61/
 | `RC.RP-01` | Warunki przywrócenia sprawności i monitoringu |
 | `ID.IM` | Wnioski i usprawnienia detekcji |
 
-Powiązane strony: [01 | Historia projektu: od alertu do dochodzenia](../historia-projektu.md), [02 | SOC L1: Wstępna analiza i eskalacja](../raporty/SOC-L1.md), [03 | SOC L2: Analiza incydentu i rekomendacje](../raporty/SOC-L2.md) i [Wykaz dowodów](../evidence/evidence-matrix.md).
+Powiązane strony: [01 | Historia projektu: od alertu do dochodzenia](../project-story.md), [02 | SOC L1: Wstępna analiza i eskalacja](../reports/SOC-L1.md), [03 | SOC L2: Analiza incydentu i rekomendacje](../reports/SOC-L2.md) i [Wykaz dowodów](../evidence/evidence-matrix.md).
