@@ -10,7 +10,7 @@ Projekt powstał, żeby przećwiczyć pracę analityka SOC: od wykrycia podejrza
 
 Do analizy wykorzystałem [Boss of the SOC v2 (BOTSv2)](https://github.com/splunk/botsv2), udostępniony przez Splunk zbiór danych do ćwiczeń z cyberbezpieczeństwa. Zawiera on logi ze środowiska fikcyjnej firmy Frothly, pozwalające badać aktywność użytkowników, systemów i sieci. Dane źródłowe są dostępne na [licencji CC0 1.0 Universal](https://github.com/splunk/botsv2/blob/master/LICENSE).
 
-W Splunku zbudowałem własną regułę `SOC-DET-001`, która wskazała wiadomości z identycznym załącznikiem ZIP wysłane do kilku odbiorców. Nie korzystałem z gotowej listy pytań ani odpowiedzi do BOTSv2 jako planu dochodzenia. Sprawdzałem kolejne hipotezy w logach pocztowych, zdarzeniach z komputerów i ruchu sieciowym. Analiza doprowadziła do śladów wykonania kodu na trzech hostach, mechanizmu persistence oraz transferów FTP i DNS.
+W Splunku zbudowałem własną regułę `SOC-DET-001`, która wskazała wiadomości z identycznym załącznikiem ZIP wysłane do kilku odbiorców. Nie korzystałem z gotowej listy pytań ani odpowiedzi do BOTSv2 jako planu dochodzenia. Sprawdzałem kolejne hipotezy w logach pocztowych, zdarzeniach z komputerów i ruchu sieciowym. Analiza doprowadziła do śladów wykonania kodu na trzech hostach, mechanizmu persistence oraz eksfiltracji danych przez FTP i podejrzanego ruchu DNS.
 
 Badane zdarzenia pochodzą z **24-26 sierpnia 2017 r.**, a dochodzenie prowadziłem w **listopadzie 2026 r.** Alert powstał podczas mojej pracy z danymi. Wyniki badań odzyskanej próbki w sandboxach z 2026 r. traktowałem jako uzupełnienie historycznych logów.
 
